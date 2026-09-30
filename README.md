@@ -11,15 +11,18 @@ I build perception and manipulation systems for robots, from segmentation and po
 - **Kinematics & control:** forward and inverse kinematics for low-cost robot arms
 - **Edge deployment:** exporting and benchmarking models for real-time inference on embedded hardware
 
-**Tools:** Python · C++ · ROS 2 · PyTorch · Hugging Face · OpenCV · Isaac Sim · Docker · Linux
+### Tools
 
-### Projects
-
-- [**so101_kinematics**](https://github.com/snachi2s/so101_kinematics): forward and inverse kinematics for the LeRobot SO-101 arm
-- [**perception**](https://github.com/snachi2s/perception): helper tools for everyday robot-perception work
-- [**pose_estimation**](https://github.com/snachi2s/pose_estimation): object pose estimation experiments
-- [**Colon-tissue-classification**](https://github.com/snachi2s/Colon-tissue-classification): tissue classification with classical ML and deep learning
-- [**notes-troubleshoot**](https://github.com/snachi2s/notes-troubleshoot): notes on fixing robotics and ML setup problems
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Connect
 
