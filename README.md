@@ -6,6 +6,7 @@ I build perception and manipulation systems for robots, from segmentation and po
 
 ### What I work on
 
+- **Vision-Language-Action (VLA) policies:** fine-tuned and deployed on real hardware, the LeRobot SO-101 arm and the Unitree H1-2 humanoid
 - **Robot perception:** semantic segmentation, pose estimation, point-cloud processing
 - **Robot learning & manipulation:** teleoperation, custom simulation tasks, imitation-learning data collection
 - **Kinematics & control:** forward and inverse kinematics for low-cost robot arms
