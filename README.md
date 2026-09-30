@@ -1,6 +1,6 @@
 # Hi, I'm Selva 👋
 
-Robotics · Deep Learning · VLA · Germany
+Robotics · Deep Learning · VLA
 
 I build perception and manipulation systems for robots, from segmentation and pose estimation models to ROS 2 nodes that run on real hardware. Lately I've been fine-tuning and deploying **Vision-Language-Action (VLA) policies** on real robots, the **LeRobot SO-101** arm and the **Unitree H1-2** humanoid, alongside robot learning in **Isaac Sim**.
 
