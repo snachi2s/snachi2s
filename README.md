@@ -2,11 +2,11 @@
 
 Robotics & Deep Learning · Germany
 
-I build perception and manipulation systems for robots, from segmentation and pose estimation models to ROS 2 nodes that run on real hardware. Lately I've been working on robot learning with **LeRobot** and **Isaac Sim**, and on robot kinematics with the **SO-101** arm.
+I build perception and manipulation systems for robots, from segmentation and pose estimation models to ROS 2 nodes that run on real hardware. Lately I've been fine-tuning and deploying **Vision-Language-Action (VLA) policies** on real robots, the **LeRobot SO-101** arm and the **Unitree H1-2** humanoid, alongside robot learning in **Isaac Sim**.
 
 ### What I work on
 
-- **Vision-Language-Action (VLA) policies:** fine-tuned and deployed on real hardware, the LeRobot SO-101 arm and the Unitree H1-2 humanoid
+- **Vision-Language-Action (VLA) policies:** fine-tuned and deployed π0.5, GR00T N1.7 and SmolVLA on real hardware, the LeRobot SO-101 arm and the Unitree H1-2 humanoid
 - **Robot perception:** semantic segmentation, pose estimation, point-cloud processing
 - **Robot learning & manipulation:** teleoperation, custom simulation tasks, imitation-learning data collection
 - **Kinematics & control:** forward and inverse kinematics for low-cost robot arms
